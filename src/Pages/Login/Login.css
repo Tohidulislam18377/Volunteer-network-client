@@ -1,0 +1,25 @@
+.loginimg{
+    margin: auto;
+    width: 20%;
+    margin-top: 5px;
+
+}
+
+.login-title{
+    margin-left: 18%;
+    margin-top: 10px;
+}
+.login{
+   outline: 2px solid black;
+   width: 60%;
+   height: 35px;
+   padding-left: 10px;
+   margin-top: 15px;
+   border-radius: 7px;
+   margin-left: 18%;
+   margin-bottom: 0px;
+}
+.login-submit{
+    width: 60%;
+    margin-left: 18%;
+}

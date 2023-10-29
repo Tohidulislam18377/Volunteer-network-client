@@ -1,0 +1,16 @@
+.title{
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+    margin-top: 40px;
+    padding-top: 6px;
+}
+
+.black{
+    background-color: #F4F7FC;
+   margin-right:60px ;
+    height: 300px;
+    border-radius: 15px;
+    margin-left: 60px;
+}
+

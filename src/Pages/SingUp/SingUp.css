@@ -1,0 +1,16 @@
+.register-side {
+    margin-left: 85px;
+}
+
+.email {
+    width: 70%;
+    padding-left: 10px;
+    outline: 2px solid black;
+    border-radius: 5px;
+    height: 35px;
+}
+
+.singup {
+    width: 60%;
+    margin-left: 85px;
+}
